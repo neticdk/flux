@@ -2,6 +2,13 @@
 
 Contains changes not yet integrated upstream.
 
+## 1.6.2 (2021-01-11)
+
+### Fixes
+
+ - Fixing duplicate rolebinding name
+   [neticdk/flux#3](https://github.com/neticdk/flux/pull/3)
+
 ## 1.6.1 (2021-01-11)
 
 ### Fixes
