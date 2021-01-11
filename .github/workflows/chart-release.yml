@@ -13,8 +13,8 @@ jobs:
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           charts_dir: chart
-          charts_url: https://charts.fluxcd.io
-          owner: fluxcd
-          repository: charts
+          charts_url: https://neticdk.github.io/flux
+          owner: neticdk
+          repository: flux
           branch: gh-pages
           linting: off
